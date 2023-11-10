@@ -4,14 +4,14 @@ Members of the group:
 Carmen Matos
 Dominik Koppen
 
-### Goal of the project:
+#### Goal of the project:
 
-### Brief description of the dataset (Source, Number of rows, number of features):
-
-
+#### Brief description of the dataset (Source, Number of rows, number of features):
 
 
-### Project Plan:
+
+
+#### Project Plan:
 
 - Day 1 - EDA
 
