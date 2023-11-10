@@ -1,7 +1,9 @@
 # Mid_term_project
 
-Members of the group:
+#### Members of the group:
+
 Carmen Matos
+
 Dominik Koppen
 
 #### Goal of the project:
