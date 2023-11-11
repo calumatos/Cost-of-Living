@@ -10,16 +10,18 @@ The project aims to predict the cost of living using machine learning, specifica
 The dataset includes various factors such as food prices, transport costs, housing costs and more across different 
 cities and countries. 
 
-The target variable is the average monthly net salary after tax. A linear regression model is trained on a subset 
-of the data and its performance is evaluated using metrics such as mean squared error. The final model allows the 
-prediction of the cost of living based on the input features. The project provides insight into the relationships 
-between different variables and their impact on the cost of living in different locations.
+A linear regression model is trained on a subset of the data and its performance is evaluated using metrics such 
+as mean squared error. The final model allows the prediction of the cost of living based on the input features. 
+The project provides insight into the relationships between different variables and their impact on the 
+cost of living in different locations.
 
 
 #### Brief description of the dataset:
 
 Source: Kaggle (https://www.kaggle.com/datasets/mvieira101/global-cost-of-living)
+
 Number of rows: 4874 rows
+
 Number of features: 59 columns
 
 #### Project Plan:
@@ -48,7 +50,7 @@ Predictions/Visualisations
 - Visualise the results, e.g. plotting predicted values against actual values
 - Prepare a presentation
 
+# Day 5
+Presentation day
 
-
-
-
+*
