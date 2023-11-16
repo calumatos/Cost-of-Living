@@ -26,31 +26,31 @@ Number of features: 59 columns
 
 #### Project Plan:
 
-## Day 1
+### Day 1
 Clean data/EDA
 - Deal with any missing values
 - Check and deal with outliers in the data
 - Exploring the data to understand its distribution and relationships between variables
 
-## Day 2
+### Day 2
 Transforming the data
 - Convert categorical variables (city and country) to numerical format using techniques such as one-hot encoding
 - Standardise or normalise numerical features to put them on a similar scale
 - Split the data set into training and test sets
 
-## Day 3 
+### Day 3 
 Modelling
 - Use linear regression to build the predictive model using scikit-learn libraries
 - Train the model on the training set
 - Evaluate the performance of the model on the test set using the metrics Mean Squared Error (MSE), Mean Absolute Error (MAE) or R-squared.
 
-## Day 4
+### Day 4
 Predictions/Visualisations
 - Make predictions on new data examples
 - Visualise the results, plotting predicted values against actual values
 - Prepare a presentation
 
-## Day 5
+### Day 5
 Presentation day
 
 *
