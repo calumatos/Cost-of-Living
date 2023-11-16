@@ -9,11 +9,10 @@ Dominik Koppen
 Our main objective is to explore how different factors affect the cost of living by analysing cost variations across continents and countries. 
 The project provides insight into the relationships between different variables and their impact on the cost of living in different locations.
 
+#### Brief description of the dataset:
+
 The dataset includes various factors such as food prices, transport costs, housing costs and more across different cities and countries. 
 cities and countries. 
-
-
-#### Brief description of the dataset:
 
 Source: Kaggle (https://www.kaggle.com/datasets/mvieira101/global-cost-of-living)
 
