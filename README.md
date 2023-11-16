@@ -6,17 +6,13 @@ Dominik Koppen
 
 #### Goal of the project:
 
-The project aims to predict the cost of living using machine learning, specifically linear regression. 
-The dataset includes various factors such as food prices, transport costs, housing costs and more across different 
-cities and countries. 
-
-A linear regression model is trained on a subset of the data and its performance is evaluated using metrics such 
-as mean squared error. The final model allows the prediction of the cost of living based on the input features. 
-The project provides insight into the relationships between different variables and their impact on the 
-cost of living in different locations.
-
+Our main objective is to explore how different factors affect the cost of living by analysing cost variations across continents and countries. 
+The project provides insight into the relationships between different variables and their impact on the cost of living in different locations.
 
 #### Brief description of the dataset:
+
+The dataset includes various factors such as food prices, transport costs, housing costs and more across different cities and countries. 
+cities and countries. 
 
 Source: Kaggle (https://www.kaggle.com/datasets/mvieira101/global-cost-of-living)
 
